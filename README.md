@@ -116,3 +116,4 @@ A atividade pede:
 
 O programa executa Merge Sort nos tres tamanhos. Para evitar uma execucao impraticavelmente longa, o Insertion Sort e executado apenas ate `n = 10000`; para `n = 100000`, o programa mede o Merge Sort. O ponto de cruzamento exato deve ser medido no computador usado no laboratorio.
 
+# EDI
